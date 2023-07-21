@@ -1,6 +1,6 @@
 ## Substrate Smart Contract: my_psp34
 
-## Group Member
+### Group Member
 - Tsang Ho Sang 101448933
 - Winston Edwards 101454440 
 
